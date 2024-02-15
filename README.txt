@@ -1,0 +1,1 @@
+Notifica i codici caricati dall'app Barcode Scanner
